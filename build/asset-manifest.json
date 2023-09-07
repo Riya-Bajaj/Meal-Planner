@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nutritionNrecipes/static/css/main.1e86a1cb.css",
-    "main.js": "/nutritionNrecipes/static/js/main.52140380.js",
+    "main.css": "/nutritionNrecipes/static/css/main.1410efa9.css",
+    "main.js": "/nutritionNrecipes/static/js/main.884f9a6a.js",
     "index.html": "/nutritionNrecipes/index.html",
-    "main.1e86a1cb.css.map": "/nutritionNrecipes/static/css/main.1e86a1cb.css.map",
-    "main.52140380.js.map": "/nutritionNrecipes/static/js/main.52140380.js.map"
+    "main.1410efa9.css.map": "/nutritionNrecipes/static/css/main.1410efa9.css.map",
+    "main.884f9a6a.js.map": "/nutritionNrecipes/static/js/main.884f9a6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e86a1cb.css",
-    "static/js/main.52140380.js"
+    "static/css/main.1410efa9.css",
+    "static/js/main.884f9a6a.js"
   ]
 }
