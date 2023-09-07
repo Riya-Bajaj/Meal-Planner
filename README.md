@@ -1,4 +1,4 @@
-# Welcome to the Readme file of foodnutrition app
+# Welcome to the Readme file of meal planner app
 ### This project will help you to maintain your daily calories intake, with some special features like:
 - Choosing a specific diet plan (e.g. Vegan, Vegetarian)
 - Excluding ingredients you don't like (e.g. Milk, Eggs)
