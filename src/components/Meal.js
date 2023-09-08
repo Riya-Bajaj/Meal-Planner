@@ -5,7 +5,7 @@ function Meal({meal}){
 
     useEffect(() => {
      fetch(
-         `https://api.spoonacular.com/recipes/${meal.id}/information?apiKey=bae565de28754165ae8db829409212f2&includeNutrition=false`
+         `https://api.spoonacular.com/recipes/${meal.id}/information?apiKey=599d1c1f20914500865979cc058f3988&includeNutrition=false`
      ).then((res)=>res.json()).then((data)=>{
          setImageUrl(data.image);
      }).catch(()=>{
