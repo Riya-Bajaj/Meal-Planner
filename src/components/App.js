@@ -22,7 +22,7 @@ function App() {
 
   function getMealData(){
   fetch(
-    `https://api.spoonacular.com/mealplanner/generate?apiKey=bae565de28754165ae8db829409212f2&timeFrame=day&targetCalories=${calories}&diet=${diet}&exclude=${exclude}`
+    `https://api.spoonacular.com/mealplanner/generate?apiKey=599d1c1f20914500865979cc058f3988&timeFrame=day&targetCalories=${calories}&diet=${diet}&exclude=${exclude}`
   ).then((response)=>response.json()).then((data)=>{
     setMealData(data);
     console.log(data);
